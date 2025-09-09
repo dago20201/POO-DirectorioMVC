@@ -1,8 +1,8 @@
 using System.Diagnostics;
-using DirectorioMVC.Models;
 using Microsoft.AspNetCore.Mvc;
+using POO_DirectorioMVC.Models;
 
-namespace DirectorioMVC.Controllers
+namespace POO_DirectorioMVC.Controllers
 {
     public class HomeController : Controller
     {

@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>POO_DirectorioMVC</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\Roberto DIaz\Desktop\tarea visual\POO-DirectorioMVC\Controllers\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\Roberto DIaz\Desktop\tarea visual\POO-DirectorioMVC\Controllers\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Views\Personas\" />
+  </ItemGroup>
+
+</Project>

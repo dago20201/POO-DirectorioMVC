@@ -1,4 +1,4 @@
-namespace DirectorioMVC.Models
+namespace POO_DirectorioMVC.Models
 {
     public class ErrorViewModel
     {
