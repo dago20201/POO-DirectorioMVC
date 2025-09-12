@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POO-DirectorioMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8cbe7f03b0a2b97e247d22dcdffa3ede7f1b14c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a2138597d90492e04827f30bef57c71aa89366e")]
 [assembly: System.Reflection.AssemblyProductAttribute("POO-DirectorioMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POO-DirectorioMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

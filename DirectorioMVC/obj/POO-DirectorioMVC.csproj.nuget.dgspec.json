@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programación Orientada a Objeto\\POO-DirectorioMVC\\DirectorioMVC\\POO-DirectorioMVC.csproj": {}
+    "C:\\Users\\Roberto DIaz\\Documents\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\POO-DirectorioMVC.csproj": {}
   },
   "projects": {
-    "D:\\Programación Orientada a Objeto\\POO-DirectorioMVC\\DirectorioMVC\\POO-DirectorioMVC.csproj": {
+    "C:\\Users\\Roberto DIaz\\Documents\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\POO-DirectorioMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programación Orientada a Objeto\\POO-DirectorioMVC\\DirectorioMVC\\POO-DirectorioMVC.csproj",
+        "projectUniqueName": "C:\\Users\\Roberto DIaz\\Documents\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\POO-DirectorioMVC.csproj",
         "projectName": "POO-DirectorioMVC",
-        "projectPath": "D:\\Programación Orientada a Objeto\\POO-DirectorioMVC\\DirectorioMVC\\POO-DirectorioMVC.csproj",
-        "packagesPath": "C:\\Users\\dagof\\.nuget\\packages\\",
-        "outputPath": "D:\\Programación Orientada a Objeto\\POO-DirectorioMVC\\DirectorioMVC\\obj\\",
+        "projectPath": "C:\\Users\\Roberto DIaz\\Documents\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\POO-DirectorioMVC.csproj",
+        "packagesPath": "C:\\Users\\Roberto DIaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Roberto DIaz\\Documents\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\dagof\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Roberto DIaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
