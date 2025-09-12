@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\github\\POO-DirectorioMVC\\DirectorioMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B156D7C4-B2CE-47C4-916E-1F61645AE05C}|DirectorioMVC.csproj|c:\\github\\poo-directoriomvc\\directoriomvc\\models\\marcador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B156D7C4-B2CE-47C4-916E-1F61645AE05C}|DirectorioMVC.csproj|solutionrelative:models\\marcador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B156D7C4-B2CE-47C4-916E-1F61645AE05C}|DirectorioMVC.csproj|c:\\github\\poo-directoriomvc\\directoriomvc\\models\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B156D7C4-B2CE-47C4-916E-1F61645AE05C}|DirectorioMVC.csproj|solutionrelative:models\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,19 +23,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Marcador.cs",
-              "DocumentMoniker": "C:\\github\\POO-DirectorioMVC\\DirectorioMVC\\Models\\Marcador.cs",
-              "RelativeDocumentMoniker": "Models\\Marcador.cs",
-              "ToolTip": "C:\\github\\POO-DirectorioMVC\\DirectorioMVC\\Models\\Marcador.cs",
-              "RelativeToolTip": "Models\\Marcador.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAswCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T04:36:58.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Personas.cs",
               "DocumentMoniker": "C:\\github\\POO-DirectorioMVC\\DirectorioMVC\\Models\\Personas.cs",
               "RelativeDocumentMoniker": "Models\\Personas.cs",
