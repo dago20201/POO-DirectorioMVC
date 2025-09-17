@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\github\\POO-DirectorioMVC\\DirectorioMVC\\DirectorioMVC.csproj",
-      "projectName": "DirectorioMVC",
-      "projectPath": "C:\\github\\POO-DirectorioMVC\\DirectorioMVC\\DirectorioMVC.csproj",
+      "projectUniqueName": "C:\\github\\POO-DirectorioMVC\\DirectorioMVC\\POO-DirectorioMVC.csproj",
+      "projectName": "POO-DirectorioMVC",
+      "projectPath": "C:\\github\\POO-DirectorioMVC\\DirectorioMVC\\POO-DirectorioMVC.csproj",
       "packagesPath": "C:\\Users\\U METRO POLITANA\\.nuget\\packages\\",
       "outputPath": "C:\\github\\POO-DirectorioMVC\\DirectorioMVC\\obj\\",
       "projectStyle": "PackageReference",

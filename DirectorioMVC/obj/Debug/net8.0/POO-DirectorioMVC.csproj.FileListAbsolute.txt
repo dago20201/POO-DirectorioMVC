@@ -100,3 +100,37 @@ C:\Users\Roberto DIaz\Documents\GitHub\POO-DirectorioMVC\DirectorioMVC\obj\Debug
 C:\Users\Roberto DIaz\Documents\GitHub\POO-DirectorioMVC\DirectorioMVC\obj\Debug\net8.0\POO-DirectorioMVC.pdb
 C:\Users\Roberto DIaz\Documents\GitHub\POO-DirectorioMVC\DirectorioMVC\obj\Debug\net8.0\POO-DirectorioMVC.genruntimeconfig.cache
 C:\Users\Roberto DIaz\Documents\GitHub\POO-DirectorioMVC\DirectorioMVC\obj\Debug\net8.0\ref\POO-DirectorioMVC.dll
+C:\github\POO-DirectorioMVC\DirectorioMVC\bin\Debug\net8.0\appsettings.Development.json
+C:\github\POO-DirectorioMVC\DirectorioMVC\bin\Debug\net8.0\appsettings.json
+C:\github\POO-DirectorioMVC\DirectorioMVC\bin\Debug\net8.0\POO-DirectorioMVC.staticwebassets.runtime.json
+C:\github\POO-DirectorioMVC\DirectorioMVC\bin\Debug\net8.0\POO-DirectorioMVC.staticwebassets.endpoints.json
+C:\github\POO-DirectorioMVC\DirectorioMVC\bin\Debug\net8.0\POO-DirectorioMVC.exe
+C:\github\POO-DirectorioMVC\DirectorioMVC\bin\Debug\net8.0\POO-DirectorioMVC.deps.json
+C:\github\POO-DirectorioMVC\DirectorioMVC\bin\Debug\net8.0\POO-DirectorioMVC.runtimeconfig.json
+C:\github\POO-DirectorioMVC\DirectorioMVC\bin\Debug\net8.0\POO-DirectorioMVC.dll
+C:\github\POO-DirectorioMVC\DirectorioMVC\bin\Debug\net8.0\POO-DirectorioMVC.pdb
+C:\github\POO-DirectorioMVC\DirectorioMVC\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\github\POO-DirectorioMVC\DirectorioMVC\obj\Debug\net8.0\POO-DirectorioMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\POO-DirectorioMVC\DirectorioMVC\obj\Debug\net8.0\POO-DirectorioMVC.AssemblyInfoInputs.cache
+C:\github\POO-DirectorioMVC\DirectorioMVC\obj\Debug\net8.0\POO-DirectorioMVC.AssemblyInfo.cs
+C:\github\POO-DirectorioMVC\DirectorioMVC\obj\Debug\net8.0\POO-DirectorioMVC.csproj.CoreCompileInputs.cache
+C:\github\POO-DirectorioMVC\DirectorioMVC\obj\Debug\net8.0\POO-DirectorioMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\github\POO-DirectorioMVC\DirectorioMVC\obj\Debug\net8.0\POO-DirectorioMVC.RazorAssemblyInfo.cache
+C:\github\POO-DirectorioMVC\DirectorioMVC\obj\Debug\net8.0\POO-DirectorioMVC.RazorAssemblyInfo.cs
+C:\github\POO-DirectorioMVC\DirectorioMVC\obj\Debug\net8.0\POO-DirectorioMVC.sourcelink.json
+C:\github\POO-DirectorioMVC\DirectorioMVC\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\github\POO-DirectorioMVC\DirectorioMVC\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\github\POO-DirectorioMVC\DirectorioMVC\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\github\POO-DirectorioMVC\DirectorioMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\github\POO-DirectorioMVC\DirectorioMVC\obj\Debug\net8.0\scopedcss\bundle\POO-DirectorioMVC.styles.css
+C:\github\POO-DirectorioMVC\DirectorioMVC\obj\Debug\net8.0\scopedcss\projectbundle\POO-DirectorioMVC.bundle.scp.css
+C:\github\POO-DirectorioMVC\DirectorioMVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\github\POO-DirectorioMVC\DirectorioMVC\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\github\POO-DirectorioMVC\DirectorioMVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\github\POO-DirectorioMVC\DirectorioMVC\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\github\POO-DirectorioMVC\DirectorioMVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\github\POO-DirectorioMVC\DirectorioMVC\obj\Debug\net8.0\POO-DirectorioMVC.dll
+C:\github\POO-DirectorioMVC\DirectorioMVC\obj\Debug\net8.0\refint\POO-DirectorioMVC.dll
+C:\github\POO-DirectorioMVC\DirectorioMVC\obj\Debug\net8.0\POO-DirectorioMVC.pdb
+C:\github\POO-DirectorioMVC\DirectorioMVC\obj\Debug\net8.0\POO-DirectorioMVC.genruntimeconfig.cache
+C:\github\POO-DirectorioMVC\DirectorioMVC\obj\Debug\net8.0\ref\POO-DirectorioMVC.dll
