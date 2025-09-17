@@ -1,51 +1,93 @@
-﻿using System.Security.Cryptography.X509Certificates;
+﻿using System;
 
 namespace POO_DirectorioMVC.Models
 {
     public class Persona
     {
+        // Propiedades públicas para que MVC pueda enlazarlas
+        private string NumeroID { get; set; }
+        private string Nombres { get; set; }
+        private string Apellidos { get; set; }
+        private DateTime? FechaNacimiento { get; set; }
+        private string Telefono { get; set; }
+       private string Celular { get; set; }
+       private string Email { get; set; }
+        private string Ciudad { get; set; }
+        private string Direccion { get; set; }
+     private string Profesion { get; set; }
 
-        private string numeroID { get; set; }
-        private string nombres { get; set; }
-        private string apellidos{ get; set; }
-        private DateTime fechaNacimiento { get; set; }
-        private string telefono { get; set; }
-        private string celular { get; set; }
-         private string email { get; set; }
-         private string  ciudad{ get; set; }
-         private string direccion{ get; set; }
-         private string profesion { get; set; }
+        // Constructor vacío (MVC lo usa por defecto)
+        public Persona()
+        {
+            this.NumeroID = string.Empty;
+            this.Nombres = string.Empty;
+            this.Apellidos = string.Empty;
+            this.FechaNacimiento = null;
+            this.Telefono = string.Empty;
+            this.Celular = string.Empty;
+            this.Email = string.Empty;
+            this.Ciudad = string.Empty;
+            this.Direccion = string.Empty;
+            this.Profesion = string.Empty;
+        }
 
-        public Persona ()
+        // Constructor completo
+        public Persona(
+            string numeroID,
+            string nombres,
+            string apellidos,
+            DateTime? fechaNacimiento,
+            string telefono,
+            string celular,
+            string email,
+            string ciudad,
+            string direccion,
+            string profesion)
         {
-           
+            this.NumeroID = numeroID;
+            this.Nombres = nombres;
+            this.Apellidos = apellidos;
+            this.FechaNacimiento = fechaNacimiento;
+            this.Telefono = telefono;
+            this.Celular = celular;
+            this.Email = email;
+            this.Ciudad = ciudad;
+            this.Direccion = direccion;
+            this.Profesion = profesion;
         }
-        public Persona (string numeroID, string nombres, string apellidos, DateTime Fechanacimiento, string telefono, string celular, string email, string ciudad, string direccion, string profesion)
+
+        // Constructor simple (solo nombres y apellidos)
+        public Persona(string nombres, string apellidos)
         {
-            this.numeroID = numeroID;
-            this.nombres = nombres;
-            this.apellidos = apellidos;
-            this.fechaNacimiento = fechaNacimiento;
-            this.telefono = telefono;
-            this.celular = celular;
-            this.email = email;
-            this.ciudad = ciudad;
-            this.direccion = direccion;
-            this.profesion = profesion;
+            this.Nombres = nombres;
+            this.Apellidos = apellidos;
         }
-        public Persona(string nombres, string apellido)
-        { this.nombres = nombres;
-            this.apellidos = apellidos;
-        }
+
+        // Métodos estilo Java (compatibles con tu vista actual)
         public void setNombres(string p_nombres)
         {
-            this.nombres = p_nombres;
+            this.Nombres = p_nombres;
         }
+
         public string getNombres()
-        { return this.nombres; }
-        public void setApellidos(string p_apellidos)
-        { this.apellidos = p_apellidos; }
-        public string getNombreCompleto()
-        { return this.nombres + "" + this.apellidos; }
+        {
+            return this.Nombres;
         }
+
+        public void setApellidos(string p_apellidos)
+        {
+            this.Apellidos = p_apellidos;
+        }
+
+        public string getApellidos()
+        {
+            return this.Apellidos;
+        }
+
+        // Propiedad calculada
+        public string NombreCompleto
+        {
+            get { return this.Nombres + " " + this.Apellidos; }
+        }
+    }
 }
