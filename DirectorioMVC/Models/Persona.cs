@@ -1,53 +1,51 @@
-﻿namespace POO_DirectorioMVC.Models
+﻿using System.Security.Cryptography.X509Certificates;
+
+namespace POO_DirectorioMVC.Models
 {
     public class Persona
     {
-        private string numeroid { set; get; }
 
-        private string nombres { set; get; }
+        private string numeroID { get; set; }
+        private string nombres { get; set; }
+        private string apellidos{ get; set; }
+        private DateTime fechaNacimiento { get; set; }
+        private string telefono { get; set; }
+        private string celular { get; set; }
+         private string email { get; set; }
+         private string  ciudad{ get; set; }
+         private string direccion{ get; set; }
+         private string profesion { get; set; }
 
-        public string apellidos { set; get; }
-        public string direccion { set; get; }
-        public int edad { set; get; }
-        public DateTime fechaNacimiento { set; get; }
-        public string telefono { set; get; }
-        public string celular { set; get; }
-        public string email { set; get; }
-        public Persona()
+        public Persona ()
         {
-            this.nombres = "Jose";
+           
         }
-
-        public Persona(string p_nombre)
+        public Persona (string numeroID, string nombres, string apellidos, DateTime Fechanacimiento, string telefono, string celular, string email, string ciudad, string direccion, string profesion)
         {
-            this.nombres = p_nombre;
+            this.numeroID = numeroID;
+            this.nombres = nombres;
+            this.apellidos = apellidos;
+            this.fechaNacimiento = fechaNacimiento;
+            this.telefono = telefono;
+            this.celular = celular;
+            this.email = email;
+            this.ciudad = ciudad;
+            this.direccion = direccion;
+            this.profesion = profesion;
         }
-        public string getNombre()
-        {
-            return this.nombres;
+        public Persona(string nombres, string apellido)
+        { this.nombres = nombres;
+            this.apellidos = apellidos;
         }
-        public void setNombre(string p_nombres)
+        public void setNombres(string p_nombres)
         {
             this.nombres = p_nombres;
         }
-
+        public string getNombres()
+        { return this.nombres; }
         public void setApellidos(string p_apellidos)
-        {
-            this.apellidos = p_apellidos;
-        }
+        { this.apellidos = p_apellidos; }
         public string getNombreCompleto()
-        {
-            return this.nombres + "" + this.apellidos;
+        { return this.nombres + "" + this.apellidos; }
         }
-
-        public string getNombreCompleto(string p_nombre, string p_apellido)
-        {
-            this.nombres = p_nombre;
-            this.apellidos = p_apellido;
-
-            return this.nombres + "" + this.apellidos;
-
-        }
-
-    }
 }
