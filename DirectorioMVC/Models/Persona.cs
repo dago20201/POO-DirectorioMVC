@@ -84,6 +84,9 @@ namespace POO_DirectorioMVC.Models
             return this.Apellidos;
         }
 
+
+
+
         // Propiedad calculada
         public string NombreCompleto
         {

@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\github\\POO-DirectorioMVC\\DirectorioMVC\\",
+  "WorkspaceRootPath": "C:\\Users\\Mike Contreras\\Documents\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F53B750-25C7-4009-A8CA-F9B9296A255A}|POO-DirectorioMVC.csproj|c:\\github\\poo-directoriomvc\\directoriomvc\\views\\persona\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3F53B750-25C7-4009-A8CA-F9B9296A255A}|POO-DirectorioMVC.csproj|solutionrelative:views\\persona\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F53B750-25C7-4009-A8CA-F9B9296A255A}|POO-DirectorioMVC.csproj|c:\\github\\poo-directoriomvc\\directoriomvc\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F53B750-25C7-4009-A8CA-F9B9296A255A}|POO-DirectorioMVC.csproj|c:\\users\\mike contreras\\documents\\github\\poo-directoriomvc\\directoriomvc\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F53B750-25C7-4009-A8CA-F9B9296A255A}|POO-DirectorioMVC.csproj|solutionrelative:models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F53B750-25C7-4009-A8CA-F9B9296A255A}|POO-DirectorioMVC.csproj|c:\\github\\poo-directoriomvc\\directoriomvc\\models\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F53B750-25C7-4009-A8CA-F9B9296A255A}|POO-DirectorioMVC.csproj|c:\\users\\mike contreras\\documents\\github\\poo-directoriomvc\\directoriomvc\\models\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F53B750-25C7-4009-A8CA-F9B9296A255A}|POO-DirectorioMVC.csproj|solutionrelative:models\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F53B750-25C7-4009-A8CA-F9B9296A255A}|POO-DirectorioMVC.csproj|c:\\github\\poo-directoriomvc\\directoriomvc\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F53B750-25C7-4009-A8CA-F9B9296A255A}|POO-DirectorioMVC.csproj|c:\\users\\mike contreras\\documents\\github\\poo-directoriomvc\\directoriomvc\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F53B750-25C7-4009-A8CA-F9B9296A255A}|POO-DirectorioMVC.csproj|solutionrelative:controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F53B750-25C7-4009-A8CA-F9B9296A255A}|POO-DirectorioMVC.csproj|c:\\github\\poo-directoriomvc\\directoriomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F53B750-25C7-4009-A8CA-F9B9296A255A}|POO-DirectorioMVC.csproj|c:\\users\\mike contreras\\documents\\github\\poo-directoriomvc\\directoriomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F53B750-25C7-4009-A8CA-F9B9296A255A}|POO-DirectorioMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F53B750-25C7-4009-A8CA-F9B9296A255A}|POO-DirectorioMVC.csproj|c:\\users\\mike contreras\\documents\\github\\poo-directoriomvc\\directoriomvc\\views\\persona\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F53B750-25C7-4009-A8CA-F9B9296A255A}|POO-DirectorioMVC.csproj|solutionrelative:views\\persona\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,11 +38,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\github\\POO-DirectorioMVC\\DirectorioMVC\\Views\\Persona\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mike Contreras\\Documents\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\Views\\Persona\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Persona\\Index.cshtml",
-              "ToolTip": "C:\\github\\POO-DirectorioMVC\\DirectorioMVC\\Views\\Persona\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mike Contreras\\Documents\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\Views\\Persona\\Index.cshtml",
               "RelativeToolTip": "Views\\Persona\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -51,52 +51,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "personaController.cs",
-              "DocumentMoniker": "C:\\github\\POO-DirectorioMVC\\DirectorioMVC\\Controllers\\personaController.cs",
+              "DocumentMoniker": "C:\\Users\\Mike Contreras\\Documents\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\Controllers\\personaController.cs",
               "RelativeDocumentMoniker": "Controllers\\personaController.cs",
-              "ToolTip": "C:\\github\\POO-DirectorioMVC\\DirectorioMVC\\Controllers\\personaController.cs",
+              "ToolTip": "C:\\Users\\Mike Contreras\\Documents\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\Controllers\\personaController.cs",
               "RelativeToolTip": "Controllers\\personaController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T20:18:58.4Z"
+              "WhenOpened": "2025-09-17T20:18:58.4Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\github\\POO-DirectorioMVC\\DirectorioMVC\\Models\\Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Mike Contreras\\Documents\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\Models\\Persona.cs",
               "RelativeDocumentMoniker": "Models\\Persona.cs",
-              "ToolTip": "C:\\github\\POO-DirectorioMVC\\DirectorioMVC\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\Mike Contreras\\Documents\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\Models\\Persona.cs",
               "RelativeToolTip": "Models\\Persona.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA5wAwAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAA6wFgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-17T20:19:21.866Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Personas.cs",
-              "DocumentMoniker": "C:\\github\\POO-DirectorioMVC\\DirectorioMVC\\Models\\Personas.cs",
+              "DocumentMoniker": "C:\\Users\\Mike Contreras\\Documents\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\Models\\Personas.cs",
               "RelativeDocumentMoniker": "Models\\Personas.cs",
-              "ToolTip": "C:\\github\\POO-DirectorioMVC\\DirectorioMVC\\Models\\Personas.cs",
+              "ToolTip": "C:\\Users\\Mike Contreras\\Documents\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\Models\\Personas.cs",
               "RelativeToolTip": "Models\\Personas.cs",
-              "ViewState": "AgIAAG0AAAAAAAAAAAAywAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T20:07:11.392Z"
+              "WhenOpened": "2025-09-17T20:07:11.392Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\github\\POO-DirectorioMVC\\DirectorioMVC\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mike Contreras\\Documents\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\github\\POO-DirectorioMVC\\DirectorioMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Mike Contreras\\Documents\\GitHub\\POO-DirectorioMVC\\DirectorioMVC\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T14:05:36.855Z"
+              "WhenOpened": "2025-09-09T14:05:36.855Z",
+              "EditorCaption": ""
             }
           ]
         }
